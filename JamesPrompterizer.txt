@@ -1,4 +1,5 @@
-# J
+### J
+### 1
 
 1 J, a s o G a o t L J C, T t t t s a t n: G.
 
@@ -16,7 +17,7 @@
 
 8 h i a d-m m, u i a h d.
 
-9 T b i h c o t p i h h p.
+9 T b i h c o t t p i h h p.
 
 10 B t o w i r s t p i h l p, b h w p a l a w f.
 
@@ -54,7 +55,9 @@
 
 27 R t G o F a a p a f i t: t l a o a w i t d a t k o f b p b t w.
 
-2 M b, a b i o g L J C, d s f.
+### 2 
+ 
+1 M b, a b i o g L J C, d s f.
 
 2 S a m c i y m w a g r a f c, a a p m i s c a c i.
 
@@ -64,7 +67,7 @@
 
 5 L, m d b: H n G c t w a p i t e o t w t b r i f a t i t k h p t w l h?
 
-6 B y h i t p. I i n t r w a e y? A t n t o w a d y i t c?
+6 B y h i t p. I i n t r w a e y? A t n t o w a d y i c?
 
 7 A t n t o w a s t n n o h t w y b?
 
@@ -72,9 +75,9 @@
 
 9 B i y s f, y s a a c b t l a l.
 
-10 F w k t w l a y s a j p i g o b a o i.
+10 F w k t w l a y s a j o p i g o b a o i.
 
-11 F h w s, "D n c a," a s, "D n m." I y d n c a b d
+11 F h w s, "D n c a," a s, "D n m." I y d n c a b d c m, y h b a l.
 
 12 S a a a t w a g t b j b t l t g f,
 
@@ -82,7 +85,7 @@
 
 14 W g i i, m b, i a m c t h f b h n d? C s f s h?
 
-15 S a b o s i w c a d f.
+15 S a b o s i w c a d f. 
 
 16 I o o y s t h, "G, I w y w; k w a w f," b d n a h p n, w g i i?
 
@@ -94,7 +97,7 @@
 
 20 Y f m, d y w e t f w d i u ?
 
-21 W n o a A c r f w h d w h o h s I o t
+21 W n o a A c r f w h d w h o h s I o t a ?
 
 22 Y s t h f a h a w w t, a h f w m c b w h d.
 
@@ -106,7 +109,9 @@
 
 26 A t b w t s i d, s f w d i d.
 
-3 N m o y s p t b t, m b, b y k t w w t w b j m s.
+### 3 
+
+1 N m o y s p t b t, m b, b y k t w w t w b j m s.
 
 2 W a s i m w. I a i n a f i w h s, h i a p m, a t k h w b i c.
 
@@ -142,7 +147,8 @@
 
 18 P w s i p r a h o r.
 
-4 W c f a q a y? D t t c f y d t b w y?
+### 4
+1 W c f a q a y? D t t c f y d t b w y?
 
 2 Y w s b d g i. Y k a c, b y c h w y w. Y q a f. Y d n h, b y d n a G.
 
